@@ -1,2 +1,3 @@
 text2 file is added.
 Ben is changing
+Ben is changed 3rd line.
